@@ -53,6 +53,7 @@ A interação é dividida entre **menu lateral (mouse)** e **atalhos de teclado*
 - **Botão Limpar Tudo**: remove todos os objetos da tela.  
 
 ### ⌨️ Teclado (com objeto selecionado)  
+- `m` → Eliminar Arestas Côncavas
 - `r` → Rotacionar anti-horário  
 - `t` → Rotacionar horário  
 - `+` → Aumentar escala  
