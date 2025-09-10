@@ -1,0 +1,1039 @@
+# depslib dependency file v1.0
+1755801283 source:c:\users\anton\downloads\paint\main.c
+	<GL/glut.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<GL/glu.h>
+	"primitivas.h"
+	"gerenciador_objetos.h"
+	"selecao.h"
+
+1755801751 source:c:\users\anton\downloads\paint\gerenciador_objetos.c
+	"gerenciador_objetos.h"
+	<stdio.h>
+
+1755801763 c:\users\anton\downloads\paint\gerenciador_objetos.h
+	"primitivas.h"
+
+1755801968 c:\users\anton\downloads\paint\primitivas.h
+	<stdlib.h>
+
+1755801978 c:\users\anton\downloads\paint\selecao.h
+	"primitivas.h"
+
+1755801396 source:c:\users\anton\downloads\paint\matriz.c
+	"matriz.h"
+	<math.h>
+	<string.h>
+
+1755801534 c:\users\anton\downloads\paint\matriz.h
+	"primitivas.h"
+
+1755801488 source:c:\users\anton\downloads\paint\primitivas.c
+	"primitivas.h"
+	"matriz.h"
+	<math.h>
+
+1755801727 source:c:\users\anton\downloads\paint\selecao.c
+	"selecao.h"
+	<stdio.h>
+
+1755823564 source:c:\users\josev\downloads\paint\paint\gerenciador_objetos.c
+	"gerenciador_objetos.h"
+	<stdio.h>
+
+1755823559 c:\users\josev\downloads\paint\paint\gerenciador_objetos.h
+	"primitivas.h"
+
+1755801968 c:\users\josev\downloads\paint\paint\primitivas.h
+	<stdlib.h>
+
+1755824173 source:c:\users\josev\downloads\paint\paint\main.c
+	<GL/glut.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<GL/glu.h>
+	"tinyfiledialogs.h"
+	"primitivas.h"
+	"gerenciador_objetos.h"
+	"selecao.h"
+
+1755801978 c:\users\josev\downloads\paint\paint\selecao.h
+	"primitivas.h"
+
+1755801396 source:c:\users\josev\downloads\paint\paint\matriz.c
+	"matriz.h"
+	<math.h>
+	<string.h>
+
+1755801534 c:\users\josev\downloads\paint\paint\matriz.h
+	"primitivas.h"
+
+1755801488 source:c:\users\josev\downloads\paint\paint\primitivas.c
+	"primitivas.h"
+	"matriz.h"
+	<math.h>
+
+1755801727 source:c:\users\josev\downloads\paint\paint\selecao.c
+	"selecao.h"
+	<stdio.h>
+
+1755824451 c:\users\josev\downloads\paint\paint\tinyfiledialogs.h
+
+1755824451 source:c:\users\josev\downloads\paint\paint\tinyfiledialogs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<sys/stat.h>
+	<windows.h>
+	<commdlg.h>
+	<shlobj.h>
+	<conio.h>
+	<direct.h>
+	<limits.h>
+	<unistd.h>
+	<dirent.h>
+	<termios.h>
+	<sys/utsname.h>
+	<signal.h>
+	"tinyfiledialogs.h"
+
+1755825572 source:c:\users\familia\documents\todolist\paint\paint\gerenciador_objetos.c
+	"gerenciador_objetos.h"
+	<stdio.h>
+
+1755823559 c:\users\familia\documents\todolist\paint\paint\gerenciador_objetos.h
+	"primitivas.h"
+
+1755801968 c:\users\familia\documents\todolist\paint\paint\primitivas.h
+	<stdlib.h>
+
+1755801396 source:c:\users\familia\documents\todolist\paint\paint\matriz.c
+	"matriz.h"
+	<math.h>
+	<string.h>
+
+1755801534 c:\users\familia\documents\todolist\paint\paint\matriz.h
+	"primitivas.h"
+
+1755801488 source:c:\users\familia\documents\todolist\paint\paint\primitivas.c
+	"primitivas.h"
+	"matriz.h"
+	<math.h>
+
+1755801727 source:c:\users\familia\documents\todolist\paint\paint\selecao.c
+	"selecao.h"
+	<stdio.h>
+
+1755801978 c:\users\familia\documents\todolist\paint\paint\selecao.h
+	"primitivas.h"
+
+1755824451 source:c:\users\familia\documents\todolist\paint\paint\tinyfiledialogs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<sys/stat.h>
+	<windows.h>
+	<commdlg.h>
+	<shlobj.h>
+	<conio.h>
+	<direct.h>
+	<limits.h>
+	<unistd.h>
+	<dirent.h>
+	<termios.h>
+	<sys/utsname.h>
+	<signal.h>
+	"tinyfiledialogs.h"
+
+1755824451 c:\users\familia\documents\todolist\paint\paint\tinyfiledialogs.h
+
+1755828957 source:c:\users\familia\documents\todolist\paint\paint\main.c
+	<GL/glut.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<GL/glu.h>
+	"tinyfiledialogs.h"
+	"primitivas.h"
+	"gerenciador_objetos.h"
+	"selecao.h"
+	"ui.h"
+	"tessellator.h"
+
+1755828876 c:\users\familia\documents\todolist\paint\paint\ui.h
+
+1755828926 c:\users\familia\documents\todolist\paint\paint\tessellator.h
+	"primitivas.h"
+
+1755828944 source:c:\users\familia\documents\todolist\paint\paint\tessellator.c
+	<GL/glut.h>
+	<GL/glu.h>
+	<stdio.h>
+	<stdlib.h>
+	"tessellator.h"
+
+1755828893 source:c:\users\familia\documents\todolist\paint\paint\ui.c
+	<GL/glut.h>
+	<string.h>
+	"ui.h"
+
+1755880011 source:c:\users\everton\downloads\paintmainseparada\paintmainseparada\gerenciador_objetos.c
+	"gerenciador_objetos.h"
+	<stdio.h>
+
+1755880011 c:\users\everton\downloads\paintmainseparada\paintmainseparada\gerenciador_objetos.h
+	"primitivas.h"
+
+1755880011 c:\users\everton\downloads\paintmainseparada\paintmainseparada\primitivas.h
+	<stdlib.h>
+
+1755880011 source:c:\users\everton\downloads\paintmainseparada\paintmainseparada\matriz.c
+	"matriz.h"
+	<math.h>
+	<string.h>
+
+1755880011 c:\users\everton\downloads\paintmainseparada\paintmainseparada\matriz.h
+	"primitivas.h"
+
+1755880011 source:c:\users\everton\downloads\paintmainseparada\paintmainseparada\primitivas.c
+	"primitivas.h"
+	"matriz.h"
+	<math.h>
+
+1755880011 source:c:\users\everton\downloads\paintmainseparada\paintmainseparada\selecao.c
+	"selecao.h"
+	<stdio.h>
+
+1755880011 c:\users\everton\downloads\paintmainseparada\paintmainseparada\selecao.h
+	"primitivas.h"
+
+1755880011 source:c:\users\everton\downloads\paintmainseparada\paintmainseparada\tessellator.c
+	<GL/glut.h>
+	<GL/glu.h>
+	<stdio.h>
+	<stdlib.h>
+	"tessellator.h"
+
+1755880011 c:\users\everton\downloads\paintmainseparada\paintmainseparada\tessellator.h
+	"primitivas.h"
+
+1755880011 source:c:\users\everton\downloads\paintmainseparada\paintmainseparada\tinyfiledialogs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<sys/stat.h>
+	<windows.h>
+	<commdlg.h>
+	<shlobj.h>
+	<conio.h>
+	<direct.h>
+	<limits.h>
+	<unistd.h>
+	<dirent.h>
+	<termios.h>
+	<sys/utsname.h>
+	<signal.h>
+	"tinyfiledialogs.h"
+
+1755880011 c:\users\everton\downloads\paintmainseparada\paintmainseparada\tinyfiledialogs.h
+
+1755880011 source:c:\users\everton\downloads\paintmainseparada\paintmainseparada\ui.c
+	<GL/glut.h>
+	<string.h>
+	"ui.h"
+
+1755880171 c:\users\everton\downloads\paintmainseparada\paintmainseparada\ui.h
+
+1755880198 source:c:\users\everton\downloads\paintmainseparada\paintmainseparada\main.c
+	<GL/glut.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<GL/glu.h>
+	"tinyfiledialogs.h"
+	"primitivas.h"
+	"gerenciador_objetos.h"
+	"selecao.h"
+	"ui.h"
+	"tessellator.h"
+
+1755880011 source:c:\users\everton\downloads\paintcg\gerenciador_objetos.c
+	"gerenciador_objetos.h"
+	<stdio.h>
+
+1755880011 c:\users\everton\downloads\paintcg\gerenciador_objetos.h
+	"primitivas.h"
+
+1755880011 c:\users\everton\downloads\paintcg\primitivas.h
+	<stdlib.h>
+
+1755986925 source:c:\users\everton\downloads\paintcg\main.c
+	<GL/gl.h>
+	<GL/glut.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<GL/glu.h>
+	"tinyfiledialogs.h"
+	"primitivas.h"
+	"gerenciador_objetos.h"
+	"selecao.h"
+	"ui.h"
+	"tessellator.h"
+
+1755880011 c:\users\everton\downloads\paintcg\tinyfiledialogs.h
+
+1755880011 c:\users\everton\downloads\paintcg\selecao.h
+	"primitivas.h"
+
+1755986909 c:\users\everton\downloads\paintcg\ui.h
+
+1755880011 c:\users\everton\downloads\paintcg\tessellator.h
+	"primitivas.h"
+
+1755880011 source:c:\users\everton\downloads\paintcg\matriz.c
+	"matriz.h"
+	<math.h>
+	<string.h>
+
+1755880011 c:\users\everton\downloads\paintcg\matriz.h
+	"primitivas.h"
+
+1755880011 source:c:\users\everton\downloads\paintcg\primitivas.c
+	"primitivas.h"
+	"matriz.h"
+	<math.h>
+
+1755880011 source:c:\users\everton\downloads\paintcg\selecao.c
+	"selecao.h"
+	<stdio.h>
+
+1755880011 source:c:\users\everton\downloads\paintcg\tessellator.c
+	<GL/glut.h>
+	<GL/glu.h>
+	<stdio.h>
+	<stdlib.h>
+	"tessellator.h"
+
+1755880011 source:c:\users\everton\downloads\paintcg\tinyfiledialogs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<sys/stat.h>
+	<windows.h>
+	<commdlg.h>
+	<shlobj.h>
+	<conio.h>
+	<direct.h>
+	<limits.h>
+	<unistd.h>
+	<dirent.h>
+	<termios.h>
+	<sys/utsname.h>
+	<signal.h>
+	"tinyfiledialogs.h"
+
+1755986904 source:c:\users\everton\downloads\paintcg\ui.c
+	<GL/gl.h>
+	<GL/glut.h>
+	<string.h>
+	"ui.h"
+	"stb_image.h"
+
+1755803613 c:\users\everton\downloads\paintcg\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1756058708 source:c:\users\josev\downloads\projeto-cg-main\projeto-cg-main\gerenciador_objetos.c
+	"gerenciador_objetos.h"
+	<stdio.h>
+
+1756060537 c:\users\josev\downloads\projeto-cg-main\projeto-cg-main\gerenciador_objetos.h
+	"primitivas.h"
+
+1756057019 c:\users\josev\downloads\projeto-cg-main\projeto-cg-main\primitivas.h
+	<stdlib.h>
+
+1756060354 source:c:\users\josev\downloads\projeto-cg-main\projeto-cg-main\main.c
+	<GL/gl.h>
+	<GL/glut.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<GL/glu.h>
+	"tinyfiledialogs.h"
+	"primitivas.h"
+	"gerenciador_objetos.h"
+	"selecao.h"
+	"ui.h"
+	"tessellator.h"
+
+1756057019 c:\users\josev\downloads\projeto-cg-main\projeto-cg-main\tinyfiledialogs.h
+
+1756057019 c:\users\josev\downloads\projeto-cg-main\projeto-cg-main\selecao.h
+	"primitivas.h"
+
+1756057300 c:\users\josev\downloads\projeto-cg-main\projeto-cg-main\ui.h
+
+1756057019 c:\users\josev\downloads\projeto-cg-main\projeto-cg-main\tessellator.h
+	"primitivas.h"
+
+1756057018 source:c:\users\josev\downloads\projeto-cg-main\projeto-cg-main\matriz.c
+	"matriz.h"
+	<math.h>
+	<string.h>
+
+1756057018 c:\users\josev\downloads\projeto-cg-main\projeto-cg-main\matriz.h
+	"primitivas.h"
+
+1756057019 source:c:\users\josev\downloads\projeto-cg-main\projeto-cg-main\primitivas.c
+	"primitivas.h"
+	"matriz.h"
+	<math.h>
+
+1756057019 source:c:\users\josev\downloads\projeto-cg-main\projeto-cg-main\selecao.c
+	"selecao.h"
+	<stdio.h>
+
+1756057019 source:c:\users\josev\downloads\projeto-cg-main\projeto-cg-main\tessellator.c
+	<GL/glut.h>
+	<GL/glu.h>
+	<stdio.h>
+	<stdlib.h>
+	"tessellator.h"
+
+1756057019 source:c:\users\josev\downloads\projeto-cg-main\projeto-cg-main\tinyfiledialogs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<sys/stat.h>
+	<windows.h>
+	<commdlg.h>
+	<shlobj.h>
+	<conio.h>
+	<direct.h>
+	<limits.h>
+	<unistd.h>
+	<dirent.h>
+	<termios.h>
+	<sys/utsname.h>
+	<signal.h>
+	"tinyfiledialogs.h"
+
+1756060612 source:c:\users\josev\downloads\projeto-cg-main\projeto-cg-main\ui.c
+	<GL/gl.h>
+	<GL/glut.h>
+	<string.h>
+	"ui.h"
+	"stb_image.h"
+
+1756057019 c:\users\josev\downloads\projeto-cg-main\projeto-cg-main\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1756058708 source:c:\users\familia\downloads\projeto-cg-main\gerenciador_objetos.c
+	"gerenciador_objetos.h"
+	<stdio.h>
+
+1756060537 c:\users\familia\downloads\projeto-cg-main\gerenciador_objetos.h
+	"primitivas.h"
+
+1756057019 c:\users\familia\downloads\projeto-cg-main\primitivas.h
+	<stdlib.h>
+
+1756057018 source:c:\users\familia\downloads\projeto-cg-main\matriz.c
+	"matriz.h"
+	<math.h>
+	<string.h>
+
+1756057018 c:\users\familia\downloads\projeto-cg-main\matriz.h
+	"primitivas.h"
+
+1756057019 source:c:\users\familia\downloads\projeto-cg-main\primitivas.c
+	"primitivas.h"
+	"matriz.h"
+	<math.h>
+
+1756057019 source:c:\users\familia\downloads\projeto-cg-main\selecao.c
+	"selecao.h"
+	<stdio.h>
+
+1756057019 c:\users\familia\downloads\projeto-cg-main\selecao.h
+	"primitivas.h"
+
+1756057019 source:c:\users\familia\downloads\projeto-cg-main\tessellator.c
+	<GL/glut.h>
+	<GL/glu.h>
+	<stdio.h>
+	<stdlib.h>
+	"tessellator.h"
+
+1756057019 c:\users\familia\downloads\projeto-cg-main\tessellator.h
+	"primitivas.h"
+
+1756057019 source:c:\users\familia\downloads\projeto-cg-main\tinyfiledialogs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<sys/stat.h>
+	<windows.h>
+	<commdlg.h>
+	<shlobj.h>
+	<conio.h>
+	<direct.h>
+	<limits.h>
+	<unistd.h>
+	<dirent.h>
+	<termios.h>
+	<sys/utsname.h>
+	<signal.h>
+	"tinyfiledialogs.h"
+
+1756057019 c:\users\familia\downloads\projeto-cg-main\tinyfiledialogs.h
+
+1756060612 source:c:\users\familia\downloads\projeto-cg-main\ui.c
+	<GL/gl.h>
+	<GL/glut.h>
+	<string.h>
+	"ui.h"
+	"stb_image.h"
+
+1756065953 c:\users\familia\downloads\projeto-cg-main\ui.h
+
+1756057019 c:\users\familia\downloads\projeto-cg-main\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1756065964 source:c:\users\familia\downloads\projeto-cg-main\main.c
+	<GL/gl.h>
+	<GL/glut.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<GL/glu.h>
+	"tinyfiledialogs.h"
+	"primitivas.h"
+	"gerenciador_objetos.h"
+	"selecao.h"
+	"ui.h"
+	"tessellator.h"
+	"animacao_pontos.h"
+
+1756065932 source:c:\users\familia\downloads\projeto-cg-main\animacao_pontos.c
+	"animacao_pontos.h"
+	"ui.h"
+	<stdlib.h>
+	<stdio.h>
+
+1756065934 c:\users\familia\downloads\projeto-cg-main\animacao_pontos.h
+	"gerenciador_objetos.h"
+
+1756082655 source:c:\users\everton\downloads\projeto-cg-chuvadepontos\projeto-cg-chuvadepontos\animacao_pontos.c
+	"animacao_pontos.h"
+	"ui.h"
+	<stdlib.h>
+	<stdio.h>
+
+1756082655 c:\users\everton\downloads\projeto-cg-chuvadepontos\projeto-cg-chuvadepontos\animacao_pontos.h
+	"gerenciador_objetos.h"
+
+1756082655 c:\users\everton\downloads\projeto-cg-chuvadepontos\projeto-cg-chuvadepontos\gerenciador_objetos.h
+	"primitivas.h"
+
+1756082656 c:\users\everton\downloads\projeto-cg-chuvadepontos\projeto-cg-chuvadepontos\primitivas.h
+	<stdlib.h>
+
+1756083018 c:\users\everton\downloads\projeto-cg-chuvadepontos\projeto-cg-chuvadepontos\ui.h
+
+1756082655 source:c:\users\everton\downloads\projeto-cg-chuvadepontos\projeto-cg-chuvadepontos\gerenciador_objetos.c
+	"gerenciador_objetos.h"
+	<stdio.h>
+
+1756082655 source:c:\users\everton\downloads\projeto-cg-chuvadepontos\projeto-cg-chuvadepontos\main.c
+	<GL/gl.h>
+	<GL/glut.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<GL/glu.h>
+	"tinyfiledialogs.h"
+	"primitivas.h"
+	"gerenciador_objetos.h"
+	"selecao.h"
+	"ui.h"
+	"tessellator.h"
+	"animacao_pontos.h"
+
+1756082656 c:\users\everton\downloads\projeto-cg-chuvadepontos\projeto-cg-chuvadepontos\tinyfiledialogs.h
+
+1756082656 c:\users\everton\downloads\projeto-cg-chuvadepontos\projeto-cg-chuvadepontos\selecao.h
+	"primitivas.h"
+
+1756082656 c:\users\everton\downloads\projeto-cg-chuvadepontos\projeto-cg-chuvadepontos\tessellator.h
+	"primitivas.h"
+
+1756082655 source:c:\users\everton\downloads\projeto-cg-chuvadepontos\projeto-cg-chuvadepontos\matriz.c
+	"matriz.h"
+	<math.h>
+	<string.h>
+
+1756082655 c:\users\everton\downloads\projeto-cg-chuvadepontos\projeto-cg-chuvadepontos\matriz.h
+	"primitivas.h"
+
+1756082656 source:c:\users\everton\downloads\projeto-cg-chuvadepontos\projeto-cg-chuvadepontos\primitivas.c
+	"primitivas.h"
+	"matriz.h"
+	<math.h>
+
+1756082656 source:c:\users\everton\downloads\projeto-cg-chuvadepontos\projeto-cg-chuvadepontos\selecao.c
+	"selecao.h"
+	<stdio.h>
+
+1756082656 source:c:\users\everton\downloads\projeto-cg-chuvadepontos\projeto-cg-chuvadepontos\tessellator.c
+	<GL/glut.h>
+	<GL/glu.h>
+	<stdio.h>
+	<stdlib.h>
+	"tessellator.h"
+
+1756082656 source:c:\users\everton\downloads\projeto-cg-chuvadepontos\projeto-cg-chuvadepontos\tinyfiledialogs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<sys/stat.h>
+	<windows.h>
+	<commdlg.h>
+	<shlobj.h>
+	<conio.h>
+	<direct.h>
+	<limits.h>
+	<unistd.h>
+	<dirent.h>
+	<termios.h>
+	<sys/utsname.h>
+	<signal.h>
+	"tinyfiledialogs.h"
+
+1756082656 source:c:\users\everton\downloads\projeto-cg-chuvadepontos\projeto-cg-chuvadepontos\ui.c
+	<GL/gl.h>
+	<GL/glut.h>
+	<string.h>
+	"ui.h"
+	"animacao_pontos.h"
+	"stb_image.h"
+
+1756082656 c:\users\everton\downloads\projeto-cg-chuvadepontos\projeto-cg-chuvadepontos\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1756082655 source:c:\users\everton\downloads\paintcg\src\animacao_pontos.c
+	"animacao_pontos.h"
+	"ui.h"
+	<stdlib.h>
+	<stdio.h>
+
+1756082655 c:\users\everton\downloads\paintcg\src\animacao_pontos.h
+	"gerenciador_objetos.h"
+
+1756082655 c:\users\everton\downloads\paintcg\src\gerenciador_objetos.h
+	"primitivas.h"
+
+1756082656 c:\users\everton\downloads\paintcg\src\primitivas.h
+	<stdlib.h>
+
+1756083018 c:\users\everton\downloads\paintcg\src\ui.h
+
+1756082655 source:c:\users\everton\downloads\paintcg\src\gerenciador_objetos.c
+	"gerenciador_objetos.h"
+	<stdio.h>
+
+1756082655 source:c:\users\everton\downloads\paintcg\src\main.c
+	<GL/gl.h>
+	<GL/glut.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<GL/glu.h>
+	"tinyfiledialogs.h"
+	"primitivas.h"
+	"gerenciador_objetos.h"
+	"selecao.h"
+	"ui.h"
+	"tessellator.h"
+	"animacao_pontos.h"
+
+1756082656 c:\users\everton\downloads\paintcg\src\tinyfiledialogs.h
+
+1756082656 c:\users\everton\downloads\paintcg\src\selecao.h
+	"primitivas.h"
+
+1756082656 c:\users\everton\downloads\paintcg\src\tessellator.h
+	"primitivas.h"
+
+1756082655 source:c:\users\everton\downloads\paintcg\src\matriz.c
+	"matriz.h"
+	<math.h>
+	<string.h>
+
+1756082655 c:\users\everton\downloads\paintcg\src\matriz.h
+	"primitivas.h"
+
+1756082656 source:c:\users\everton\downloads\paintcg\src\primitivas.c
+	"primitivas.h"
+	"matriz.h"
+	<math.h>
+
+1756082656 source:c:\users\everton\downloads\paintcg\src\selecao.c
+	"selecao.h"
+	<stdio.h>
+
+1756082656 source:c:\users\everton\downloads\paintcg\src\tessellator.c
+	<GL/glut.h>
+	<GL/glu.h>
+	<stdio.h>
+	<stdlib.h>
+	"tessellator.h"
+
+1756082656 source:c:\users\everton\downloads\paintcg\src\tinyfiledialogs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<sys/stat.h>
+	<windows.h>
+	<commdlg.h>
+	<shlobj.h>
+	<conio.h>
+	<direct.h>
+	<limits.h>
+	<unistd.h>
+	<dirent.h>
+	<termios.h>
+	<sys/utsname.h>
+	<signal.h>
+	"tinyfiledialogs.h"
+
+1756086664 source:c:\users\everton\downloads\paintcg\src\ui.c
+	<GL/gl.h>
+	<GL/glut.h>
+	<string.h>
+	"ui.h"
+	"animacao_pontos.h"
+	"stb_image.h"
+
+1756082656 c:\users\everton\downloads\paintcg\src\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1757351464 source:c:\users\guido\desktop\paintcg\src\animacao_pontos.c
+	"animacao_pontos.h"
+	"ui.h"
+	<stdlib.h>
+	<stdio.h>
+
+1757351464 c:\users\guido\desktop\paintcg\src\animacao_pontos.h
+	"gerenciador_objetos.h"
+
+1757351464 c:\users\guido\desktop\paintcg\src\gerenciador_objetos.h
+	"primitivas.h"
+
+1757351464 c:\users\guido\desktop\paintcg\src\primitivas.h
+	<stdlib.h>
+
+1757351464 c:\users\guido\desktop\paintcg\src\ui.h
+
+1757351464 source:c:\users\guido\desktop\paintcg\src\gerenciador_objetos.c
+	"gerenciador_objetos.h"
+	<stdio.h>
+
+1757351464 source:c:\users\guido\desktop\paintcg\src\matriz.c
+	"matriz.h"
+	<math.h>
+	<string.h>
+
+1757351464 c:\users\guido\desktop\paintcg\src\matriz.h
+	"primitivas.h"
+
+1757351464 source:c:\users\guido\desktop\paintcg\src\selecao.c
+	"selecao.h"
+	<stdio.h>
+
+1757351464 c:\users\guido\desktop\paintcg\src\selecao.h
+	"primitivas.h"
+
+1757351464 source:c:\users\guido\desktop\paintcg\src\tessellator.c
+	<GL/glut.h>
+	<GL/glu.h>
+	<stdio.h>
+	<stdlib.h>
+	"tessellator.h"
+
+1757351464 c:\users\guido\desktop\paintcg\src\tessellator.h
+	"primitivas.h"
+
+1757351464 source:c:\users\guido\desktop\paintcg\src\tinyfiledialogs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<sys/stat.h>
+	<windows.h>
+	<commdlg.h>
+	<shlobj.h>
+	<conio.h>
+	<direct.h>
+	<limits.h>
+	<unistd.h>
+	<dirent.h>
+	<termios.h>
+	<sys/utsname.h>
+	<signal.h>
+	"tinyfiledialogs.h"
+
+1757351464 c:\users\guido\desktop\paintcg\src\tinyfiledialogs.h
+
+1757351464 source:c:\users\guido\desktop\paintcg\src\ui.c
+	<GL/gl.h>
+	<GL/glut.h>
+	<string.h>
+	"ui.h"
+	"animacao_pontos.h"
+	"stb_image.h"
+
+1757351464 c:\users\guido\desktop\paintcg\src\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1757351464 source:c:\users\guido\desktop\paintcg\src\main.c
+	<GL/gl.h>
+	<GL/glut.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<GL/glu.h>
+	"tinyfiledialogs.h"
+	"primitivas.h"
+	"gerenciador_objetos.h"
+	"selecao.h"
+	"ui.h"
+	"tessellator.h"
+	"animacao_pontos.h"
+
+1757351678 source:c:\users\guido\desktop\paintcg\src\primitivas.c
+	"primitivas.h"
+	"matriz.h"
+	<math.h>
+	<stdio.h>
+
+1757459406 source:c:\users\everton\downloads\paintcg-main\src\animacao_pontos.c
+	"animacao_pontos.h"
+	"ui.h"
+	<stdlib.h>
+	<stdio.h>
+
+1757459406 c:\users\everton\downloads\paintcg-main\src\animacao_pontos.h
+	"gerenciador_objetos.h"
+
+1757459406 c:\users\everton\downloads\paintcg-main\src\gerenciador_objetos.h
+	"primitivas.h"
+
+1757459406 c:\users\everton\downloads\paintcg-main\src\primitivas.h
+	<stdlib.h>
+
+1757459407 c:\users\everton\downloads\paintcg-main\src\ui.h
+
+1757459406 source:c:\users\everton\downloads\paintcg-main\src\gerenciador_objetos.c
+	"gerenciador_objetos.h"
+	<stdio.h>
+
+1757459406 source:c:\users\everton\downloads\paintcg-main\src\main.c
+	<GL/gl.h>
+	<GL/glut.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<GL/glu.h>
+	"tinyfiledialogs.h"
+	"primitivas.h"
+	"gerenciador_objetos.h"
+	"selecao.h"
+	"ui.h"
+	"tessellator.h"
+	"animacao_pontos.h"
+
+1757459407 c:\users\everton\downloads\paintcg-main\src\tinyfiledialogs.h
+
+1757459407 c:\users\everton\downloads\paintcg-main\src\selecao.h
+	"primitivas.h"
+
+1757459407 c:\users\everton\downloads\paintcg-main\src\tessellator.h
+	"primitivas.h"
+
+1757459406 source:c:\users\everton\downloads\paintcg-main\src\matriz.c
+	"matriz.h"
+	<math.h>
+	<string.h>
+
+1757459406 c:\users\everton\downloads\paintcg-main\src\matriz.h
+	"primitivas.h"
+
+1757459406 source:c:\users\everton\downloads\paintcg-main\src\primitivas.c
+	"primitivas.h"
+	"matriz.h"
+	<math.h>
+	<stdio.h>
+
+1757459407 source:c:\users\everton\downloads\paintcg-main\src\selecao.c
+	"selecao.h"
+	<stdio.h>
+
+1757459407 source:c:\users\everton\downloads\paintcg-main\src\tessellator.c
+	<GL/glut.h>
+	<GL/glu.h>
+	<stdio.h>
+	<stdlib.h>
+	"tessellator.h"
+
+1757459407 source:c:\users\everton\downloads\paintcg-main\src\tinyfiledialogs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<sys/stat.h>
+	<windows.h>
+	<commdlg.h>
+	<shlobj.h>
+	<conio.h>
+	<direct.h>
+	<limits.h>
+	<unistd.h>
+	<dirent.h>
+	<termios.h>
+	<sys/utsname.h>
+	<signal.h>
+	"tinyfiledialogs.h"
+
+1757459407 source:c:\users\everton\downloads\paintcg-main\src\ui.c
+	<GL/gl.h>
+	<GL/glut.h>
+	<string.h>
+	"ui.h"
+	"animacao_pontos.h"
+	"stb_image.h"
+
+1757459407 c:\users\everton\downloads\paintcg-main\src\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+

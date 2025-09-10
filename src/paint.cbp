@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="paint" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/paint" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add option="-lfreeglut -lglu32 -lopengl32 -lm -mconsole -lole32 -lcomdlg32" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/paint" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="animacao_pontos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="animacao_pontos.h" />
+		<Unit filename="gerenciador_objetos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="gerenciador_objetos.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="matriz.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="matriz.h" />
+		<Unit filename="primitivas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="primitivas.h" />
+		<Unit filename="selecao.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="selecao.h" />
+		<Unit filename="tessellator.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="tessellator.h" />
+		<Unit filename="tinyfiledialogs.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="tinyfiledialogs.h" />
+		<Unit filename="ui.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ui.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
